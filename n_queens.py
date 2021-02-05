@@ -186,7 +186,7 @@ def plot_chessboard(n, queens):
 
 def get_sanitized_input():
     while True:
-        print("Enter the number of queens to place (n > 0):")
+        print("Hello Dr Higham.  Shall we play a game?  Global Thermonuclear war or N-queens? Enter the number of queens to place (n > 0):")
         n = input()
 
         try:
